@@ -20,7 +20,8 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^6.6.0"
+    "ember-cli-babel": "^6.6.0",
+    "ember-cli-tailwind": "dfreeman/ember-cli-tailwind#addon-support"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
